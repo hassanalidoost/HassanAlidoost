@@ -2,7 +2,7 @@
 
 <h1>Hi guys, I'm Hassan Alidoost 👋</h1>
 
-<img alt="Coder GIF" height=500 width=500 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img alt="Coder GIF" height=500 width=600 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <br>
 <img src="https://skillicons.dev/icons?i=php,laravel,vue,html,css,bootstrap,tailwind,git,github,regex,docker,postman,&theme=dark" />
 <br><br>
